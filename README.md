@@ -27,6 +27,8 @@ Survey on Knowledge Graph
 
 ### Named Entity Recognition
 
+- [A Neural Layered Model for Nested Named Entity Recognition.](http://www.aclweb.org/anthology/P18-2012) [NAACL2018]
+
 - [Named Entity Recognition with Bidirectional LSTM-CNNs](https://arxiv.org/pdf/1511.08308.pdf) [axiv2015, cites=261]
 
 - [Neural Architectures for Named Entity Recognition](https://arxiv.org/pdf/1603.01360.pdf) [NAACL2016, cites=560]
