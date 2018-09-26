@@ -37,8 +37,6 @@ Survey on Knowledge Graph
 
 - [Segment-Level Neural Conditional Random Fields for Named Entity Recognition](http://www.aclweb.org/anthology/I17-2017) [IJCNLP2017, cites=2]
 
-- [Segment-Level Neural Conditional Random Fields for Named Entity Recognition](http://www.aclweb.org/anthology/I17-2017) [NAACL2017, cites=2]
-
 - [Multi-domain evaluation framework for named entity recognition tools](https://www.sciencedirect.com/science/article/pii/S0885230815300504) [Computer Speech & Language2017, cites=2]
 
 - [Deep learning with word embeddings improves biomedical named entity recognition](https://academic.oup.com/bioinformatics/article-abstract/33/14/i37/3953940) [Bioinformatics2017, cites=40]
