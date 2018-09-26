@@ -29,6 +29,8 @@ Survey on Knowledge Graph
 
 - [A Neural Layered Model for Nested Named Entity Recognition.](http://www.aclweb.org/anthology/P18-2012) [NAACL2018]
 
+- [Semi-supervised sequence tagging with bidirectional language models](https://arxiv.org/pdf/1705.00108.pdf) [ACL2017, cites=44]
+
 - [Named Entity Recognition with Bidirectional LSTM-CNNs](https://arxiv.org/pdf/1511.08308.pdf) [axiv2015, cites=261]
 
 - [Neural Architectures for Named Entity Recognition](https://arxiv.org/pdf/1603.01360.pdf) [NAACL2016, cites=560]
