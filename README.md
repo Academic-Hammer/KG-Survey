@@ -27,6 +27,8 @@ Survey on Knowledge Graph
 
 ### Named Entity Recognition
 
+- [Empower Sequence Labeling with Task-Aware Neural Language Model](https://arxiv.org/pdf/1709.04109.pdf) [AAAI2018, cites=7]
+
 - 1.[Named Entity Recognition With Parallel Recurrent Neural Networks](http://www.aclweb.org/anthology/P18-2012) [NAACL2018]
 
 - 2.[Semi-supervised sequence tagging with bidirectional language models](https://arxiv.org/pdf/1705.00108.pdf) [ACL2017, cites=44]
