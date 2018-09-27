@@ -47,17 +47,17 @@ Survey on Knowledge Graph
 
 - 10.[A combination of active learning and self-learning for named entity recognition on Twitter using conditional random fields](https://www.sciencedirect.com/science/article/pii/S0950705117303040) [KBS2017, cites=4]
 
- - 11.[Leveraging Linguistic Structures for Named Entity Recognition with Bidirectional Recursive Neural Networks](http://www.aclweb.org/anthology/D/D17/D17-1282.pdf) [EMNLP2017, cites=2]
+- 11.[Leveraging Linguistic Structures for Named Entity Recognition with Bidirectional Recursive Neural Networks](http://www.aclweb.org/anthology/D/D17/D17-1282.pdf) [EMNLP2017, cites=2]
 
- - 12.[A Local Detection Approach for Named Entity Recognition and Mention Detection](http://www.aclweb.org/anthology/P/P17/P17-1114.pdf) [ACL2017, cites=9]
+- 12.[A Local Detection Approach for Named Entity Recognition and Mention Detection](http://www.aclweb.org/anthology/P/P17/P17-1114.pdf) [ACL2017, cites=9]
 
 - 13.[Weakly Supervised Cross-Lingual Named Entity Recognition via Effective Annotation and Representation Projection](http://www.aclweb.org/anthology/P/P17/P17-1135.pdf) (ACL2017, cites=5)
 
- - 14.[A Neural Layered Model for Nested Named Entity Recognition](http://www.aclweb.org/anthology/N18-1131) [ACL2018, cites=0]
+- 14.[A Neural Layered Model for Nested Named Entity Recognition](http://www.aclweb.org/anthology/N18-1131) [ACL2018, cites=0]
 
- - 15.[Combining rule-based and statistical mechanisms for low-resource named entity recognition](https://www.researchgate.net/publication/321954024_Combining_rule-based_and_statistical_mechanisms_for_low-resource_named_entity_recognition) [MT2018, cites=1]
+- 15.[Combining rule-based and statistical mechanisms for low-resource named entity recognition](https://www.researchgate.net/publication/321954024_Combining_rule-based_and_statistical_mechanisms_for_low-resource_named_entity_recognition) [MT2018, cites=1]
 
- - 16.[Design Challenges and Misconceptions in Neural Sequence Labeling](https://arxiv.org/abs/1806.04470) [COLING2018, cites=2]
+- 16.[Design Challenges and Misconceptions in Neural Sequence Labeling](https://arxiv.org/abs/1806.04470) [COLING2018, cites=2]
  
  ### Relation Extraction
  1. Pengda Qin, Weiran XU, William Yang Wang. [Robust Distant Supervision Relation Extraction via Deep Reinforcement Learning](http://aclweb.org/anthology/P18-1199) ACL (2018).
