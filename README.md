@@ -27,6 +27,8 @@ Survey on Knowledge Graph
 
 ### Named Entity Recognition
 
+- [DEEP ACTIVE LEARNING FOR NAMED ENTITY RECOGNITION](https://openreview.net/pdf?id=ry018WZAZ) [ICLR2018, cites=11]
+
 - (Open source tool) [NCRF++: An Open-source Neural Sequence Labeling Toolkit](https://arxiv.org/pdf/1806.05626.pdf) [ACL2018, cites=4]
 
 - [Empower Sequence Labeling with Task-Aware Neural Language Model](https://arxiv.org/pdf/1709.04109.pdf) [AAAI2018, cites=7]
