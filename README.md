@@ -59,7 +59,7 @@ Survey on Knowledge Graph
 
 - 16.[Design Challenges and Misconceptions in Neural Sequence Labeling](https://arxiv.org/abs/1806.04470) [COLING2018, cites=2]
  
- ### Relation Extraction
+### Relation Extraction
  1. Pengda Qin, Weiran XU, William Yang Wang. [Robust Distant Supervision Relation Extraction via Deep Reinforcement Learning](http://aclweb.org/anthology/P18-1199) ACL (2018).
 2. Pengda Qin, Weiran XU, William Yang Wang. [DSGAN: Generative Adversarial Training for Distant Supervision Relation Extraction](http://aclweb.org/anthology/P18-1046) ACL (2018).
 3. Fenia Christopoulou, Makoto Miwa, Sophia Ananiadou. [A Walk-based Model on Entity Graphs for Relation Extraction](http://aclweb.org/anthology/P18-2014) ACL (2018).
@@ -82,3 +82,8 @@ Survey on Knowledge Graph
 20. N Peng, H Poon, C Quirk, K Toutanova, et al. [Cross-Sentence N-ary Relation Extraction with Graph LSTMs](https://arxiv.org/pdf/1708.03743) ACL (2017).
 21. A Abad, M Nabi, A Moschitti. [Self-Crowdsourcing Training for Relation Extraction](http://www.aclweb.org/anthology/P17-2082). ACL (2017).
 22. M Miwa, M Bansal. [End-to-End Relation Extraction using LSTMs on Sequences and Tree Structures](https://arxiv.org/paf/1601.00770)
+
+### Common Paper
+- [Conditional random fields: Probabilistic models for segmenting and labeling sequence data](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1162&context=cis_papers) [2001, cites=11655]
+- [Long short-term memory](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.676.4320&rep=rep1&type=pdf) [Neural computation1991, cites=12498]
+- [Imagenet classification with deep convolutional neural networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) [NIPS2012, cites=28920]
