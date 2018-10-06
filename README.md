@@ -88,6 +88,7 @@ Survey on Knowledge Graph
 20. N Peng, H Poon, C Quirk, K Toutanova, et al. [Cross-Sentence N-ary Relation Extraction with Graph LSTMs](https://arxiv.org/pdf/1708.03743) ACL (2017).
 21. A Abad, M Nabi, A Moschitti. [Self-Crowdsourcing Training for Relation Extraction](http://www.aclweb.org/anthology/P17-2082). ACL (2017).
 22. M Miwa, M Bansal. [End-to-End Relation Extraction using LSTMs on Sequences and Tree Structures](https://arxiv.org/paf/1601.00770)
+24. CND Santos, B Xiang, B Zhou. [Classifying relations by ranking with convolutional neural networks](https://arxiv.org/pdf/1504.06580) [cites=119, ACL'2015].
 
 ### Common Paper
 - [Conditional random fields: Probabilistic models for segmenting and labeling sequence data](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1162&context=cis_papers) [2001, cites=11655]
