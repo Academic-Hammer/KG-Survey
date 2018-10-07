@@ -89,7 +89,7 @@ Survey on Knowledge Graph
 21. A Abad, M Nabi, A Moschitti. [Self-Crowdsourcing Training for Relation Extraction](http://www.aclweb.org/anthology/P17-2082). ACL (2017).
 22. M Miwa, M Bansal. [End-to-End Relation Extraction using LSTMs on Sequences and Tree Structures](https://arxiv.org/paf/1601.00770)
 24. 24 CND Santos, B Xiang, B Zhou. [Classifying relations by ranking with convolutional neural networks](https://arxiv.org/pdf/1504.06580) [cites=119, ACL'2015].
-
+26. 26 X Jiang, W Quan, L Peng, B Wang. [Relation Extraction with Multi-instance Multi-label Convolutional Neural Networks](http://www.aclweb.org/anthology/C/C16/C16-1139.pdf) [cites=11 ,COLING'2016]
 ### Common Paper
 - [Conditional random fields: Probabilistic models for segmenting and labeling sequence data](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1162&context=cis_papers) [2001, cites=11655]
 - [Long short-term memory](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.676.4320&rep=rep1&type=pdf) [Neural computation1991, cites=12498]
