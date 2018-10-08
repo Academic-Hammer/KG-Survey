@@ -27,6 +27,10 @@ Survey on Knowledge Graph
 
 ### Named Entity Recognition
 
+- [Adversarial Active Learning for Sequence Labeling and Generation](https://www.ijcai.org/proceedings/2018/0558.pdf) [IJCAI2018]
+
+- [Hybrid semi-Markov CRF for Neural Sequence Labeling](https://arxiv.org/pdf/1805.03838.pdf) [ACL2018, cites=1]
+
 - [DEEP ACTIVE LEARNING FOR NAMED ENTITY RECOGNITION](https://openreview.net/pdf?id=ry018WZAZ) [ICLR2018, cites=11]
 
 - (Open source tool) [NCRF++: An Open-source Neural Sequence Labeling Toolkit](https://arxiv.org/pdf/1806.05626.pdf) [ACL2018, cites=4]
