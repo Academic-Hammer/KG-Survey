@@ -27,6 +27,8 @@ Survey on Knowledge Graph
 
 ### Named Entity Recognition
 
+- [Semi-supervised Multitask Learning for Sequence Labeling](https://arxiv.org/pdf/1704.07156.pdf) [ACL2017, cites=33]
+
 - ~~[Adversarial Active Learning for Sequence Labeling and Generation](https://www.ijcai.org/proceedings/2018/0558.pdf) [IJCAI2018]~~
 
 - [Hybrid semi-Markov CRF for Neural Sequence Labeling](https://arxiv.org/pdf/1805.03838.pdf) [ACL2018, cites=1]
