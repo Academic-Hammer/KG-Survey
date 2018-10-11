@@ -25,6 +25,7 @@ Survey on Knowledge Graph
 
 - [They Exist! Introducing Plural Mentions to Coreference Resolution and Entity Linking](http://www.aclweb.org/anthology/C18-1003) [COLING2018]
 
+
 ### Named Entity Recognition
 
 - [Semi-supervised Multitask Learning for Sequence Labeling](https://arxiv.org/pdf/1704.07156.pdf) [ACL2017, cites=33]
@@ -70,7 +71,8 @@ Survey on Knowledge Graph
 - 15.[Combining rule-based and statistical mechanisms for low-resource named entity recognition](https://www.researchgate.net/publication/321954024_Combining_rule-based_and_statistical_mechanisms_for_low-resource_named_entity_recognition) [MT2018, cites=1]
 
 - 16.[Design Challenges and Misconceptions in Neural Sequence Labeling](https://arxiv.org/abs/1806.04470) [COLING2018, cites=2]
- 
+
+- 17.[Transition-Based Dependency Parsing with Stack Long Short-Term Memory](https://arxiv.org/abs/1505.08075) [Computer Science2015,cites=214]
 ### Relation Extraction
 1. Pengda Qin, Weiran XU, William Yang Wang. [Robust Distant Supervision Relation Extraction via Deep Reinforcement Learning](http://aclweb.org/anthology/P18-1199) ACL (2018).
 2. Pengda Qin, Weiran XU, William Yang Wang. [DSGAN: Generative Adversarial Training for Distant Supervision Relation Extraction](http://aclweb.org/anthology/P18-1046) ACL (2018).
