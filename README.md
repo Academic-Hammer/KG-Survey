@@ -25,20 +25,13 @@ Survey on Knowledge Graph
 
 - [They Exist! Introducing Plural Mentions to Coreference Resolution and Entity Linking](http://www.aclweb.org/anthology/C18-1003) [COLING2018]
 
-
 ### Named Entity Recognition
-
-- [Semi-supervised Multitask Learning for Sequence Labeling](https://arxiv.org/pdf/1704.07156.pdf) [ACL2017, cites=33]
-
-- ~~[Adversarial Active Learning for Sequence Labeling and Generation](https://www.ijcai.org/proceedings/2018/0558.pdf) [IJCAI2018]~~
-
-- [Hybrid semi-Markov CRF for Neural Sequence Labeling](https://arxiv.org/pdf/1805.03838.pdf) [ACL2018, cites=1]
 
 - [DEEP ACTIVE LEARNING FOR NAMED ENTITY RECOGNITION](https://openreview.net/pdf?id=ry018WZAZ) [ICLR2018, cites=11]
 
 - (Open source tool) [NCRF++: An Open-source Neural Sequence Labeling Toolkit](https://arxiv.org/pdf/1806.05626.pdf) [ACL2018, cites=4]
 
-- [Empower Sequence Labeling with Task-Aware Neural Language Model](https://arxiv.org/pdf/1709.04109.pdf) [AAAI2018, cites=26]
+- [Empower Sequence Labeling with Task-Aware Neural Language Model](https://arxiv.org/pdf/1709.04109.pdf) [AAAI2018, cites=7]
 
 - 1.[Named Entity Recognition With Parallel Recurrent Neural Networks](http://www.aclweb.org/anthology/P18-2012) [NAACL2018]
 
@@ -71,8 +64,7 @@ Survey on Knowledge Graph
 - 15.[Combining rule-based and statistical mechanisms for low-resource named entity recognition](https://www.researchgate.net/publication/321954024_Combining_rule-based_and_statistical_mechanisms_for_low-resource_named_entity_recognition) [MT2018, cites=1]
 
 - 16.[Design Challenges and Misconceptions in Neural Sequence Labeling](https://arxiv.org/abs/1806.04470) [COLING2018, cites=2]
-
-- 17.[Transition-Based Dependency Parsing with Stack Long Short-Term Memory](https://arxiv.org/abs/1505.08075) [Computer Science2015,cites=214]
+ 
 ### Relation Extraction
 1. Pengda Qin, Weiran XU, William Yang Wang. [Robust Distant Supervision Relation Extraction via Deep Reinforcement Learning](http://aclweb.org/anthology/P18-1199) ACL (2018).
 2. Pengda Qin, Weiran XU, William Yang Wang. [DSGAN: Generative Adversarial Training for Distant Supervision Relation Extraction](http://aclweb.org/anthology/P18-1046) ACL (2018).
@@ -97,7 +89,12 @@ Survey on Knowledge Graph
 21. A Abad, M Nabi, A Moschitti. [Self-Crowdsourcing Training for Relation Extraction](http://www.aclweb.org/anthology/P17-2082). ACL (2017).
 22. M Miwa, M Bansal. [End-to-End Relation Extraction using LSTMs on Sequences and Tree Structures](https://arxiv.org/paf/1601.00770)
 24. 24 CND Santos, B Xiang, B Zhou. [Classifying relations by ranking with convolutional neural networks](https://arxiv.org/pdf/1504.06580) [cites=119, ACL'2015].
-26. 26 X Jiang, W Quan, L Peng, B Wang. [Relation Extraction with Multi-instance Multi-label Convolutional Neural Networks](http://www.aclweb.org/anthology/C/C16/C16-1139.pdf) [cites=11 ,COLING'2016]
+25. [Adversarial Training for Relation Extraction](http://aclweb.org/anthology/D17-1187) [EMNLP 2017]
+26. [Open Relation Extraction and Grounding](http://aclweb.org/anthology/I17-1086) [IJCNLP 2017]
+27. [Global Relation Embedding for Relation Extraction](http://aclweb.org/anthology/N18-1075) [NAACL 2018]
+28. [Incorporating Relation Paths in Neural Relation Extraction](http://aclweb.org/anthology/D17-1186) [EMNLP 2017]
+29. [Distant Supervision for Relation Extraction beyond the Sentence Boundary](http://aclweb.org/anthology/E17-1110) [EACL 2017]
+30. [Relation extraction pattern ranking using word similarity](http://www.aclweb.org/anthology/N15-2004) [NAACL 2015]
 ### Common Paper
 - [Conditional random fields: Probabilistic models for segmenting and labeling sequence data](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1162&context=cis_papers) [2001, cites=11655]
 - [Long short-term memory](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.676.4320&rep=rep1&type=pdf) [Neural computation1991, cites=12498]
