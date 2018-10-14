@@ -27,6 +27,12 @@ Survey on Knowledge Graph
 
 ### Named Entity Recognition
 
+- A Study of the Importance of External Knowledge in the Named Entity Recognition Task [ACL2018]
+
+- Exploiting Wikipedia as External Knowledge for Named Entity Recognition [EMNLP2007]
+
+- Alleviating Poor Context with Background Knowledge for Named Entity Disambiguation. [ACL2016]
+
 - [DEEP ACTIVE LEARNING FOR NAMED ENTITY RECOGNITION](https://openreview.net/pdf?id=ry018WZAZ) [ICLR2018, cites=11]
 
 - (Open source tool) [NCRF++: An Open-source Neural Sequence Labeling Toolkit](https://arxiv.org/pdf/1806.05626.pdf) [ACL2018, cites=4]
