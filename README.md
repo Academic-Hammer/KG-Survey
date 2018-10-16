@@ -27,6 +27,8 @@ Survey on Knowledge Graph
 
 ### Named Entity Recognition
 
+- A Survey on Recent Advances in Named Entity Recognition from Deep Learning models [COLING2018]
+
 - A Study of the Importance of External Knowledge in the Named Entity Recognition Task [ACL2018]
 
 - Exploiting Wikipedia as External Knowledge for Named Entity Recognition [EMNLP2007]
