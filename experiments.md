@@ -1,0 +1,18 @@
+1. [Neural Relation Extraction with Selective Attention over Instances.](http://www.aclweb.org/anthology/P16-1200) Yankai Lin, Shiqi Shen, Zhiyuan Liu, Huanbo Luan, Maosong Sun. ACL2016.
+- code:[OpenNRE](https://github.com/thunlp/OpenNRE):
+  - Embedding
+    - Word embedding
+    - Position embedding
+  - Encoder
+    - PCNN
+    - CNN
+    - RNN
+    - Bidirection RNN
+  - Selector
+    - Attention
+    - Maximum
+    - Average
+  - Classifier
+    - Softmax Loss Function
+    - Output
+- propocessed data for above code(i.e. train.json/test.json/rel2id.json/word_vec.json for NYT dataset).
