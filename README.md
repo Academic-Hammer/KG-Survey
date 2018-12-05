@@ -106,6 +106,7 @@ Survey on Knowledge Graph
 28. [Incorporating Relation Paths in Neural Relation Extraction](http://aclweb.org/anthology/D17-1186) [EMNLP 2017]
 29. [Distant Supervision for Relation Extraction beyond the Sentence Boundary](http://aclweb.org/anthology/E17-1110) [EACL 2017]
 30. [Relation extraction pattern ranking using word similarity](http://www.aclweb.org/anthology/N15-2004) [NAACL 2015]
+31. [Reinforcement Learning for Relation Classification from Noisy Data](https://tianjun.me/static/essay_resources/RelationExtraction/Paper/AAAI2018Denoising.pdf)
 ### Common Paper
 - [Conditional random fields: Probabilistic models for segmenting and labeling sequence data](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1162&context=cis_papers) [2001, cites=11655]
 - [Long short-term memory](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.676.4320&rep=rep1&type=pdf) [Neural computation1991, cites=12498]
